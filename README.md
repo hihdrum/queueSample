@@ -1,0 +1,2 @@
+# queueSample
+キューのサンプル
